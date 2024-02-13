@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Weather App Screenshot](images/Celcius.png)
+![Weather App Screenshot](images/Celcius.jpg)
 
 # 221511054_Proyek4_Mahesya
